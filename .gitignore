@@ -1,3 +1,10 @@
+#쓸모없는파일
+.vs
+x64
+
+#아직 올릴필요 없는 파일
+RhythmData
+
 # Prerequisites
 *.d
 
